@@ -19,8 +19,16 @@ function App() {
             in tropical rainforest regions where there are conditions of high
             humidity and temperature along with atmospheric instability.
             Individual storm clouds can measure 2–10 km across.
+            <a href="https://en.wikipedia.org/wiki/Storm" target="_blank">
+              source:wikipedia
+            </a>
           </p>
-          <p href="https://en.wikipedia.org/wiki/Storm" rel="wikipedia"></p>
+          <a
+            href="https://unsplash.com/fr/photos/coup-de-foudre-la-nuit-uu-Jw5SunYI"
+            target="_blank"
+          >
+            photo: unsplash
+          </a>
         </div>
       </section>
     </>
